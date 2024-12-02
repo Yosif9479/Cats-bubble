@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb5f8215dd5b4bf587fb933ae2f8e18f, type: 3}
+  m_Name: MainBubbleSet
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 9131212529093701096, guid: abef9edefbe7282459cdb7261e1aedae, type: 3}
+  - {fileID: 3898207030207964699, guid: 63de3acfb47cc634f9f1824c00f10256, type: 3}
+  - {fileID: -1602231868083796797, guid: 153c7a9c46f6c8b46a656c5bfb8eb97f, type: 3}
+  - {fileID: 7096005991615161057, guid: 78af0f8468c27a44faab098bf7c4b0ec, type: 3}
+  - {fileID: -6852871206357190002, guid: 5cde9e2eb39cf49448792ccff4484552, type: 3}
+  - {fileID: 21300000, guid: cffef80ce5a0b4b4da10932131613a6b, type: 3}
+  - {fileID: -1934680450091737863, guid: 3ff1598ef9dc3754f966975e248dbaca, type: 3}
+  - {fileID: -3916174181601551736, guid: 364da23c7d390a54499e2dbef8a121d9, type: 3}
+  - {fileID: 6103826995915850073, guid: 8f01a7c57aac2b548b7373cca7a086ff, type: 3}
